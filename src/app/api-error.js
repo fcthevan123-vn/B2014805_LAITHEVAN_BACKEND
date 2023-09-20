@@ -6,4 +6,4 @@ class ApiError extends Error {
   }
 }
 
-modeule.exports = ApiError;
+export default ApiError;
